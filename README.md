@@ -1,3 +1,3 @@
-# proge216
+# proge2
 
 Programmeerimiskursuse harjutuskoht.
